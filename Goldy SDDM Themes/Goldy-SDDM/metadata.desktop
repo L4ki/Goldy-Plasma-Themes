@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Goldy-SDDM
+Description=Goldy-SDDM Login Screen
+Type=sddm-theme
+Author=l4k1
+Screenshot=preview.jpg
+License=GPLv3
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Goldy-SDDM
+Theme-API=2.0
+Website=https://github.com/L4ki/Goldy-Plasma-Themes
+
