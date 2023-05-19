@@ -5,7 +5,7 @@ Goldy Themes For Plasma Desktop
 Dark Plasma Theme: "Goldy-Dark-Plasma" 
 ------------------------------
 
-Download: 
+Download: https://www.pling.com/p/2037383/
 -------------------------------------------
 
 
