@@ -36,4 +36,6 @@ Screenshots "Goldy-Dark-Plasma":
 
 ![Screenshot_20230518_151244](https://github.com/L4ki/Goldy-Plasma-Themes/assets/45247573/0f6f7fb7-2db1-4496-ad94-a834d547763a)
 
+![Screenshot_20230518_212323](https://github.com/L4ki/Goldy-Plasma-Themes/assets/45247573/eb83a484-60bd-451f-90f7-0f00e691c6d8)
+
 ![Screenshot_20230518_145038](https://github.com/L4ki/Goldy-Plasma-Themes/assets/45247573/3add1e56-3e45-46e6-b700-a4f56d0d5f2a)
