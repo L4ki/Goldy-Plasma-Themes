@@ -39,3 +39,21 @@ Screenshots "Goldy-Dark-Plasma":
 ![Screenshot_20230518_212323](https://github.com/L4ki/Goldy-Plasma-Themes/assets/45247573/eb83a484-60bd-451f-90f7-0f00e691c6d8)
 
 ![Screenshot_20230518_145038](https://github.com/L4ki/Goldy-Plasma-Themes/assets/45247573/3add1e56-3e45-46e6-b700-a4f56d0d5f2a)
+
+Changelog: 26.05.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons apps: 32, 48
+
+GTK Theme
+----------
+
+Update:  menubar-item-active.png
+
+Plasma Theme
+-------------
+
+Added icon: jami.svg
