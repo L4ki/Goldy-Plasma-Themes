@@ -93,3 +93,21 @@ Plasma Theme
 -------------
 
 Update icon: thunderbird.svg
+
+Changelog: 16.06.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons apps: 32, 48
+
+GTK Theme
+----------
+
+Update: tab-right-active.png, tab-left-active.png
+
+Plasma Theme
+-------------
+
+Update : metadata.desktop
