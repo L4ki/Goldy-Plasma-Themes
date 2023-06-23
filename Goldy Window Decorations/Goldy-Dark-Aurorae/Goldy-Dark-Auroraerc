@@ -1,6 +1,6 @@
 [General]
 ActiveTextColor=225, 225, 225
-InactiveTextColor=166, 166, 166
+InactiveTextColor=176, 176, 176
 ActiveUnfocusedTabColor=120,120,120
 TitleAlignment=Center
 TitleVerticalAlignment=Center
@@ -21,10 +21,10 @@ BorderTop=4
 BorderLeft=1
 BorderRight=1
 BorderBottom=4
-ButtonHeight=18
+ButtonHeight=16
 ButtonMarginTop=0
 ButtonSpacing=10
-ButtonWidth=18
+ButtonWidth=16
 ExplicitButtonSpacer=10
 PaddingBottom=17
 PaddingLeft=17
