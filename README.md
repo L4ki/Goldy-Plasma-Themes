@@ -111,3 +111,26 @@ Plasma Theme
 -------------
 
 Update : metadata.desktop
+
+Changelog: 23.06.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
+Icons
+-----
+
+Added new icons apps: 32, 48
+
+GTK Theme
+----------
+
+Update: tab-down-active.png
+
+Plasma Theme
+-------------
+
+Added icon : krfb.svg
