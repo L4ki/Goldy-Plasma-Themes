@@ -3829,9 +3829,8 @@ headerbar.titlebar {
 
 headerbar windowcontrols button,
 .titlebar windowcontrols button {
-  min-height: 24px;
-  min-width: 24px;
-  -gtk-icon-size: 24px;
+  min-height: 18px;
+  min-width: 18px;
   padding: 0;
   margin-top: -14px;
   padding-top: 28px;
@@ -3845,12 +3844,9 @@ headerbar windowcontrols button,
   .titlebar windowcontrols button:dir(rtl) {
     margin-left: -7px;
     padding-left: 14px; }
-  headerbar windowcontrols button.close:dir(ltr),
-  .titlebar windowcontrols button.close:dir(ltr) {
-    margin-right: -14px; }
-  headerbar windowcontrols button.close:dir(rtl),
-  .titlebar windowcontrols button.close:dir(rtl) {
-    margin-left: -14px; }
+  headerbar windowcontrols button image,
+  .titlebar windowcontrols button image {
+    color: transparent; }
   headerbar windowcontrols button.close, headerbar windowcontrols button.close:hover, headerbar windowcontrols button.close:active, headerbar windowcontrols button.close:backdrop, headerbar windowcontrols label:backdrop selection.close, label:backdrop headerbar windowcontrols selection.close, headerbar windowcontrols button.maximize, headerbar windowcontrols button.maximize:hover, headerbar windowcontrols button.maximize:active, headerbar windowcontrols button.maximize:backdrop, headerbar windowcontrols label:backdrop selection.maximize, label:backdrop headerbar windowcontrols selection.maximize, headerbar windowcontrols button.minimize, headerbar windowcontrols button.minimize:hover, headerbar windowcontrols button.minimize:active, headerbar windowcontrols button.minimize:backdrop, headerbar windowcontrols label:backdrop selection.minimize, label:backdrop headerbar windowcontrols selection.minimize,
   .titlebar windowcontrols button.close,
   .titlebar windowcontrols button.close:hover,
@@ -3871,27 +3867,63 @@ headerbar windowcontrols button,
   .titlebar windowcontrols label:backdrop selection.minimize,
   label:backdrop .titlebar windowcontrols selection.minimize {
     border-color: transparent;
+    border-image: none;
     box-shadow: none;
-    background-color: transparent; }
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 18px 18px; }
+  headerbar windowcontrols button.close,
+  .titlebar windowcontrols button.close {
+    background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg"), color @theme_text_color_breeze);
+    -gtk-icon-source: none; }
   headerbar windowcontrols button.close:hover,
   .titlebar windowcontrols button.close:hover {
-    color: mix(@error_color_breeze,white,0.75); }
-    headerbar windowcontrols button.close:hover:backdrop, headerbar windowcontrols label:backdrop selection:hover, label:backdrop headerbar windowcontrols selection:hover,
-    .titlebar windowcontrols button.close:hover:backdrop,
-    .titlebar windowcontrols label:backdrop selection:hover,
-    label:backdrop .titlebar windowcontrols selection:hover {
-      color: @error_color_breeze; }
+    background-image: -gtk-recolor(url("../assets/breeze-close-hover-symbolic.svg")); }
   headerbar windowcontrols button.close:active,
   .titlebar windowcontrols button.close:active {
-    color: @error_color_breeze; }
-  headerbar windowcontrols button.maximize:hover, headerbar windowcontrols button.minimize:hover,
-  .titlebar windowcontrols button.maximize:hover,
+    background-image: -gtk-recolor(url("../assets/breeze-close-active-symbolic.svg")); }
+  headerbar windowcontrols button.close:backdrop, headerbar windowcontrols label:backdrop selection.close, label:backdrop headerbar windowcontrols selection.close,
+  .titlebar windowcontrols button.close:backdrop,
+  .titlebar windowcontrols label:backdrop selection.close,
+  label:backdrop .titlebar windowcontrols selection.close {
+    background-image: -gtk-recolor(url("../assets/breeze-close-symbolic.svg")); }
+  headerbar windowcontrols button.maximize,
+  .titlebar windowcontrols button.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
+  headerbar windowcontrols button.maximize:hover,
+  .titlebar windowcontrols button.maximize:hover {
+    background-image: -gtk-recolor(url("../assets/breeze-maximize-hover-symbolic.svg")); }
+  headerbar windowcontrols button.maximize:active,
+  .titlebar windowcontrols button.maximize:active {
+    background-image: -gtk-recolor(url("../assets/breeze-maximize-active-symbolic.svg")); }
+  headerbar windowcontrols button.maximize:backdrop, headerbar windowcontrols label:backdrop selection.maximize, label:backdrop headerbar windowcontrols selection.maximize,
+  .titlebar windowcontrols button.maximize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.maximize,
+  label:backdrop .titlebar windowcontrols selection.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximize-symbolic.svg")); }
+  headerbar windowcontrols button.minimize,
+  .titlebar windowcontrols button.minimize {
+    background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
+  headerbar windowcontrols button.minimize:hover,
   .titlebar windowcontrols button.minimize:hover {
-    opacity: 0.7; }
-  headerbar windowcontrols button.maximize:active, headerbar windowcontrols button.minimize:active,
-  .titlebar windowcontrols button.maximize:active,
+    background-image: -gtk-recolor(url("../assets/breeze-minimize-hover-symbolic.svg")); }
+  headerbar windowcontrols button.minimize:active,
   .titlebar windowcontrols button.minimize:active {
-    opacity: 0.5; }
+    background-image: -gtk-recolor(url("../assets/breeze-minimize-active-symbolic.svg")); }
+  headerbar windowcontrols button.minimize:backdrop, headerbar windowcontrols label:backdrop selection.minimize, label:backdrop headerbar windowcontrols selection.minimize,
+  .titlebar windowcontrols button.minimize:backdrop,
+  .titlebar windowcontrols label:backdrop selection.minimize,
+  label:backdrop .titlebar windowcontrols selection.minimize {
+    background-image: -gtk-recolor(url("../assets/breeze-minimize-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize, .maximized .titlebar windowcontrols button.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:hover, .maximized .titlebar windowcontrols button.maximize:hover {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-hover-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:active, .maximized .titlebar windowcontrols button.maximize:active {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-active-symbolic.svg")); }
+  .maximized headerbar windowcontrols button.maximize:backdrop, .maximized headerbar windowcontrols label:backdrop selection.maximize, label:backdrop .maximized headerbar windowcontrols selection.maximize, .maximized .titlebar windowcontrols button.maximize:backdrop, .maximized .titlebar windowcontrols label:backdrop selection.maximize, label:backdrop .maximized .titlebar windowcontrols selection.maximize {
+    background-image: -gtk-recolor(url("../assets/breeze-maximized-symbolic.svg")); }
 
 headerbar.selection-mode button.titlebutton,
 .titlebar.selection-mode button.titlebutton {
