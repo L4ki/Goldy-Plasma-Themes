@@ -134,3 +134,21 @@ Plasma Theme
 -------------
 
 Added icon : krfb.svg
+
+Changelog: 30.06.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (symbolic)
+
+GTK Theme
+----------
+
+Update: gtk-3.0, gtk-4.0
+
+Plasma Theme
+-------------
+
+Added icon : quota.scg
