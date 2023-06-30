@@ -151,4 +151,4 @@ Update: gtk-3.0, gtk-4.0
 Plasma Theme
 -------------
 
-Added icon : quota.scg
+Added icon : quota.svg
