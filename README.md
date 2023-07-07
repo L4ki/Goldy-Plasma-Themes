@@ -152,3 +152,22 @@ Plasma Theme
 -------------
 
 Added icon : quota.svg
+
+
+Changelog: 07.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: radio-unchecked-hover.png
+
+Plasma Theme
+-------------
+
+Added icon : corectrl.svg
