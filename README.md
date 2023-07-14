@@ -171,3 +171,21 @@ Plasma Theme
 -------------
 
 Added icon : corectrl.svg
+
+Changelog: 14.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: dash-symbolic.svg
+
+Plasma Theme
+-------------
+
+Added icon : internet.svg
