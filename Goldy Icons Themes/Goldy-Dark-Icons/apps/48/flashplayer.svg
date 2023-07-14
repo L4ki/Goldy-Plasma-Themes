@@ -4,7 +4,7 @@
    height="56"
    version="1.1"
    id="svg10"
-   sodipodi:docname="adobe-flashplayer.svg"
+   sodipodi:docname="flashplayer.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -12,7 +12,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs14" />
+     id="defs14">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1440">
+      <stop
+         style="stop-color:#c6cfd2;stop-opacity:1;"
+         offset="0"
+         id="stop1436" />
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1;"
+         offset="1"
+         id="stop1438" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient1442"
+       x1="9.3333302"
+       y1="46.666672"
+       x2="56.223999"
+       y2="0.26666641"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.7287598e-6,0.05066773)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient1568"
+       x1="7"
+       y1="28"
+       x2="49"
+       y2="28"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="namedview12"
      pagecolor="#ffffff"
@@ -24,10 +56,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="9.6949153"
-     inkscape:cy="53.355932"
+     inkscape:cx="-14.033898"
+     inkscape:cy="53.288136"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,20 +85,19 @@
      cx="28"
      cy="28"
      r="21"
-     fill="#ae1b29"
-     style="stroke-width:0.77776;paint-order:stroke fill markers"
+     style="stroke-width:0.77776;paint-order:stroke fill markers;fill-opacity:1.0;fill:url(#linearGradient1568)"
      id="circle2-0" />
   <circle
      cx="28"
-     cy="28"
+     cy="28.050671"
      r="18.66667"
      fill="#ffffff"
      opacity="0.15"
-     style="stroke-width:0.77776;paint-order:stroke fill markers"
+     style="fill:url(#linearGradient1442);fill-opacity:1;stroke-width:0.77776;paint-order:stroke fill markers"
      id="circle4-6" />
   <path
      d="m 38.295677,13.332734 v 5.815469 c -5.444444,0.103606 -7.005492,6.224977 -7.005492,6.224977 h 4.592838 v 4.818147 h -6.644162 c -3.830365,12.600585 -12.62786,11.998084 -12.62786,11.998084 v -5.815475 c 0,0 5.590164,1.105725 8.443746,-10.003953 3.566614,-13.88995 13.240585,-13.066737 13.240585,-13.066737"
-     fill="#ffffff"
      stroke-width="0.815116"
-     id="path22-6-1" />
+     id="path22-6-1"
+     style="fill:#162d50;fill-opacity:1" />
 </svg>
