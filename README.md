@@ -189,3 +189,21 @@ Plasma Theme
 -------------
 
 Added icon : internet.svg
+
+Changelog: 21.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: bullet-symbolic.svg
+
+Plasma Theme
+-------------
+
+Update widget : translucentbackground.svg
