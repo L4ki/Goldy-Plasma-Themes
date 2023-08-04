@@ -225,3 +225,23 @@ Plasma Theme
 -------------
 
 Added widget : switch.svg
+
+Changelog: 04.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon : lutris.svg
+
+
