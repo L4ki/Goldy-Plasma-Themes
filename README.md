@@ -245,3 +245,22 @@ Plasma Theme
 Added icon : lutris.svg
 
 
+Changelog: 11.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: checkbox-checked-active.png
+
+Plasma Theme
+-------------
+
+Added icon : offline.svg
+
+
