@@ -263,4 +263,22 @@ Plasma Theme
 
 Added icon : offline.svg
 
+Changelog: 18.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: hacks-dark.rc
+
+Plasma Theme
+-------------
+
+Added icon : ring.svg
+
 
