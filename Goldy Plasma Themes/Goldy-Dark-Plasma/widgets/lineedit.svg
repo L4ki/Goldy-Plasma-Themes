@@ -8,7 +8,7 @@
    sodipodi:docname="lineedit.svg"
    height="107.73376"
    width="42.667091"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:version="0.32"
    id="svg2"
    viewBox="0 0 40.000397 101.0004"
@@ -22,11 +22,9 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { color:#008080; }
-.ColorScheme-Background { color:#000000; }
-</style>
+     type="text/css">.ColorScheme-Highlight { color:#008080; }&#10;.ColorScheme-Background { color:#000000; }&#10;</style>
   <sodipodi:namedview
-     inkscape:window-height="1004"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -34,12 +32,12 @@
      gridtolerance="10.0"
      objecttolerance="10.0"
      borderopacity="1"
-     bordercolor="#000000"
+     bordercolor="#030303"
      pagecolor="#333333"
      id="base"
      inkscape:zoom="4.6157838"
-     inkscape:cx="-2.2748033"
-     inkscape:cy="43.654558"
+     inkscape:cx="33.363781"
+     inkscape:cy="58.819913"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -75,7 +73,8 @@
        originx="-24.999797"
        originy="-36.999613"
        spacingx="0.99999997"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -4031,7 +4030,7 @@
        inkscape:connector-curvature="0"
        id="path17000"
        d="m 25.99982,14.000001 v 0.999982 h -12 v -0.999982 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
   </g>
   <g
      transform="translate(-1582.9998,0.638213)"
@@ -5756,7 +5755,7 @@
        inkscape:connector-curvature="0"
        id="path5559"
        d="m 39.99982,14 v 0.999982 h -12 V 14 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
@@ -5776,7 +5775,7 @@
        inkscape:connector-curvature="0"
        id="path5551"
        d="M -1.81e-4,14.999982 V 14 h 12 v 0.999982 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
@@ -5786,7 +5785,8 @@
   </g>
   <g
      id="base-bottomleft"
-     transform="translate(2e-4,4e-4)">
+     transform="translate(2e-4,4e-4)"
+     style="fill:#000000;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path5557-2"
@@ -5796,11 +5796,11 @@
        inkscape:connector-curvature="0"
        id="path5557"
        d="M 12,16.999999 H -3.1e-7 v 0 c 5.6e-7,7.602609 5.60427471,12 12.00000031,12 0,0 -0.0481,7.2e-4 0,-3.8e-4 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01176471;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="cccccc" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 0,17 c 0,7 5,12 12,12 V 28 C 5.5939354,27.999999 1.0000002,23.260231 1,17 Z"
        id="path5338-20-1-2-3-8"
        sodipodi:nodetypes="ccccc"
@@ -5818,7 +5818,7 @@
        inkscape:connector-curvature="0"
        id="path5555"
        d="M 25.99982,28.999815 H 13.999817 v -12 H 25.99982 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
@@ -5838,7 +5838,7 @@
        inkscape:connector-curvature="0"
        id="path5563"
        d="m 28,17 v 12 h 0.068 c 7.931999,-1e-6 11.931999,-6.000001 11.9317,-11.85492 -5e-4,-0.0483 0,-0.0968 0,-0.14508 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="cccccc" />
     <path
        inkscape:connector-curvature="0"
@@ -5860,7 +5860,7 @@
        inkscape:connector-curvature="0"
        id="path5553"
        d="M 12,11.9996 V -3.9963e-4 H 11.932 C 4.0000001,-1e-6 2.5e-7,5.999999 2.997e-4,11.85452 c 5e-4,0.0483 0,0.0968 0,0.14508 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.0062422;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="cccccc" />
     <path
        inkscape:connector-curvature="0"
@@ -5889,7 +5889,7 @@
        inkscape:connector-curvature="0"
        id="path5549"
        d="M 13.999997,0 H 26 V 12 H 13.999997 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <path
        id="rect3311-3-4-8-2-1-0"
        d="M 26,0 V 1 H 14 V 0 Z"
@@ -5915,7 +5915,7 @@
        inkscape:connector-curvature="0"
        id="path5561"
        d="m 28.0002,11.999811 h 12 v -0.06789 C 39.999999,3.999999 33.999999,-1e-6 28.1453,1.914e-4 c -0.048,5.21e-4 -0.097,-0.0011 -0.1451,0 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.02;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#ffffff;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="cccccc" />
     <path
        inkscape:connector-curvature="0"
