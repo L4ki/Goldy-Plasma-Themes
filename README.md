@@ -282,3 +282,20 @@ Plasma Theme
 Added icon : ring.svg
 
 
+Changelog: 25.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Update widget : lineedit.svg
