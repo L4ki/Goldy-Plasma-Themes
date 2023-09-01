@@ -299,3 +299,21 @@ Plasma Theme
 -------------
 
 Update widget : lineedit.svg
+
+Changelog: 01.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon : image.svg
