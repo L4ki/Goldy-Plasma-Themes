@@ -4,7 +4,7 @@
    height="56"
    version="1.1"
    id="svg61"
-   sodipodi:docname="amarok.svg"
+   sodipodi:docname="amarok-icon.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -259,7 +259,7 @@
      id="image324" />
   <rect
      height="56"
-     ry="15"
+     ry="16.060682"
      width="56"
      x="0"
      y="0"
