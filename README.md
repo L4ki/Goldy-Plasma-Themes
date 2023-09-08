@@ -317,3 +317,22 @@ Plasma Theme
 -------------
 
 Added icon : image.svg
+
+
+Changelog: 08.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: border.png
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
