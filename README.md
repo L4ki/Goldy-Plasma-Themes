@@ -355,3 +355,22 @@ Plasma Theme
 -------------
 
 Update widget: lineedit.svg
+
+
+Changelog: 22.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Plasma Theme
+-------------
+
+Added icon: sirikali.svg
