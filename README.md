@@ -391,4 +391,4 @@ Update: frame-inline.png
 Plasma Theme
 -------------
 
-Added icon: skypei.svg
+Added icon: skype.svg
