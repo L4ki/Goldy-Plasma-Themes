@@ -374,3 +374,21 @@ Plasma Theme
 -------------
 
 Added icon: sirikali.svg
+
+Changelog: 29.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Plasma Theme
+-------------
+
+Added icon: skypei.svg
