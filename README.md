@@ -392,3 +392,22 @@ Plasma Theme
 -------------
 
 Added icon: skype.svg
+
+
+Changelog: 06.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: focus.png
+
+Plasma Theme
+-------------
+
+Added icon: veracrypt.svg
