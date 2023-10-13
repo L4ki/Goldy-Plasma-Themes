@@ -411,3 +411,21 @@ Plasma Theme
 -------------
 
 Added icon: veracrypt.svg
+
+Changelog: 13.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: aps 32, 48
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
+Plasma Theme
+-------------
+
+Added icon: strawberry.svg
