@@ -429,3 +429,22 @@ Plasma Theme
 -------------
 
 Added icon: strawberry.svg
+
+Changelog: 20.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: applets 64
+
+GTK Theme
+----------
+
+Update: handle.png
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
