@@ -448,3 +448,22 @@ Plasma Theme
 
 Update widget: line.svg
 
+
+Changelog: 27.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: treeview-separator-ltr.png
+
+Plasma Theme
+-------------
+
+Update widget:  panel-background.svg
+
