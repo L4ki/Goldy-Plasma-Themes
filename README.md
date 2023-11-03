@@ -467,3 +467,20 @@ Plasma Theme
 
 Update widget:  panel-background.svg
 
+Changelog: 03.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
