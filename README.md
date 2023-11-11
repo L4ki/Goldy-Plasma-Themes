@@ -484,3 +484,21 @@ Plasma Theme
 -------------
 
 Added icon: transform.svg
+
+Changelog: 11.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: treeview-separator-rtl.png
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
