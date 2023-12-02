@@ -539,3 +539,27 @@ Plasma Theme
 -------------
 
 Update widget: clock.svg
+
+
+Changelog: 02.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: styles
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Aurorae Themes
+--------------
+
+Update
