@@ -563,3 +563,21 @@ Aurorae Themes
 --------------
 
 Update
+
+Changelog: 09.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: styles
+
+Plasma Theme
+-------------
+
+Added icon: telegram.svg
