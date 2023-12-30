@@ -625,3 +625,27 @@ Aurorae Themes
 ---------------
 
 Update: minimize.svg
+
+Changelog: 30.12.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
+Plasma Theme
+-------------
+
+Update widget: switch.svg
+
+GTK Theme
+---------
+
+Update: gtk-4.0
+
+Aurorae Themes
+---------------
+
+Update: restore.svg
