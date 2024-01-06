@@ -649,3 +649,22 @@ Aurorae Themes
 ---------------
 
 Update: restore.svg
+
+Changelog: 06.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: 48
+
+
+Plasma Theme
+-------------
+
+Update icon: search.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0
