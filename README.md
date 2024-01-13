@@ -656,7 +656,7 @@ Changelog: 06.01.2024.
 Icons
 -----
 
-Added new icons: 48
+Added new icons: apps 48
 
 
 Plasma Theme
@@ -668,3 +668,27 @@ GTK Theme
 ---------
 
 Update: gtk-3.0
+
+Changelog: 13.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+
+Plasma Theme
+-------------
+
+Update icon: device.svg
+
+GTK Theme
+---------
+
+Update: gtkrc
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
