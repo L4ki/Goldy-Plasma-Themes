@@ -692,3 +692,17 @@ Aurorae Themes
 ---------------
 
 Update: decoration.svg
+
+Changelog: 20.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+
+Plasma Theme
+-------------
+
+Added icon: solaar.svg
