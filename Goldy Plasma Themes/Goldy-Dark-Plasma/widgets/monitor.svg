@@ -6,7 +6,7 @@
    height="256"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="monitor.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -31,11 +31,11 @@
        id="linearGradient1439">
       <stop
          id="stop1435"
-         style="stop-color:#3383e6;stop-opacity:0.01;"
+         style="stop-color:#a48d2d;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop1437"
-         style="stop-color:#6ECAF7"
+         style="stop-color:#dac77a;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -2596,9 +2596,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="10.253048"
-     inkscape:cy="105.71246"
+     inkscape:zoom="1"
+     inkscape:cx="-56.999998"
+     inkscape:cy="102"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      width="128px"
@@ -2606,7 +2606,7 @@
      showgrid="true"
      inkscape:grid-points="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="false"
@@ -2645,7 +2645,8 @@
        empspacing="4"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       units="px" />
     <sodipodi:guide
        orientation="0,1"
        position="66.423843,-1.125"
@@ -2653,7 +2654,13 @@
        inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
-       id="grid760" />
+       id="grid760"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2721,7 +2728,7 @@
          height="124"
          width="190" />
       <rect
-         style="opacity:0.840909;fill:url(#linearGradient3544);fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="opacity:0.57768053;fill:url(#linearGradient3544);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect4941"
          width="190"
          height="124"
