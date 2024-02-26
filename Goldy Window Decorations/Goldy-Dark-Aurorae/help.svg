@@ -4,7 +4,7 @@
    width="202"
    height="22.000101"
    id="svg2"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="help.svg"
    viewBox="0 0 189.37502 20.625095"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -16,7 +16,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     pagecolor="#333333"
+     pagecolor="#262626"
      bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
@@ -25,12 +25,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="4.5000003"
-     inkscape:cx="55.111107"
-     inkscape:cy="37.22222"
+     inkscape:zoom="3.1819807"
+     inkscape:cx="85.795617"
+     inkscape:cy="53.582977"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#404040">
+     inkscape:deskcolor="#333333">
     <sodipodi:guide
        position="-20.13067,43.469697"
        orientation="1,0"
@@ -50,7 +50,11 @@
        type="xygrid"
        id="grid1245"
        originx="-3.0000002e-05"
-       originy="1.3000565e-11" />
+       originy="1.3000565e-11"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata11">
