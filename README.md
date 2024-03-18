@@ -42,18 +42,18 @@ Screenshots "Goldy-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 11.03.2024.
+Changelog: 18.03.2024.
 ----------------------
 
 Aurorae Themes
 --------------
 
-Update: metadata.desktop
+Update: Auroraerc
 
 GTK Theme
 ---------
 
-Update: styles
+Update: checkbox-checked-hover.png
 
 Icons
 -----
@@ -64,4 +64,4 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: clock.svg
+Update widget: listitem.svg
