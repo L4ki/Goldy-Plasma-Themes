@@ -1,0 +1,32 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Goldy-Dark-Global-6",
+        "Description": "Goldy-Dark Global Theme by l4k1",
+        "Id": "Goldy-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Goldy-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2141256",
+        "kns://window-decorations.knsrc/api.kde-look.org/2141254",
+        "kns://window-decorations.knsrc/api.kde-look.org/2141248",
+        "kns://colorschemes.knsrc/api.kde-look.org/2037377",
+        "kns://colorschemes.knsrc/api.kde-look.org/2037376",
+        "kns://icons.knsrc/api.kde-look.org/2037378",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2037383",
+        "kns://wallpaper.knsrc/api.kde-look.org/2037366"
+    ]
+}
