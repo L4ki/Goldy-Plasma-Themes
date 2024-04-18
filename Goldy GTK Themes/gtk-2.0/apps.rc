@@ -73,7 +73,7 @@ style "gimp_spin_scale" {
       state           = INSENSITIVE
       detail          = "spinbutton_down"
       overlay_file    = "assets/spin-down-insensitive.png"
-      overlay_stretch = FALSE
+      overlay_stretch  = FALSE
     }
 
  }
