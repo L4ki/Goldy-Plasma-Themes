@@ -63,4 +63,4 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update: scrollbar.svg
+Update widget: scrollbar.svg
