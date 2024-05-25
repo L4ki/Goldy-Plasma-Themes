@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 30.00001 30.000027"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="login.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   width="30.00001"
+   height="30.000027"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="10.746865"
+     inkscape:cx="-2.5588858"
+     inkscape:cy="18.330927"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+  </defs>
+  <rect
+     ry="15.000005"
+     y="0"
+     x="0"
+     height="30.000027"
+     width="30.00001"
+     id="rect4130"
+     style="opacity:1;fill:#333333;fill-opacity:1;stroke:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 10.91934,4.1768021 9.055679,9.0556649 1.944328,1.944317 -1.944328,1.944345 L 10.91934,26.176803 8.975,24.232465 18.030674,15.176784 8.975,6.1211401 Z"
+     style="color:#eff0f1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27272"
+     id="rect4149" />
+</svg>
