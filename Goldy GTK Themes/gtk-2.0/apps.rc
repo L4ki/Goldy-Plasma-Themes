@@ -87,7 +87,7 @@ style "chrome_gtk_frame" {
   ChromeGtkFrame::frame-gradient-color = @window_color
   ChromeGtkFrame::inactive-frame-color = @bg_color
 
-  ChromeGtkFrame::incognito-frame-color          = "#cbd2d9"
+  ChromeGtkFrame::incognito-frame-color = "#cbd2d9"
   ChromeGtkFrame::incognito-frame-gradient-color = "#cbd2d9"
   ChromeGtkFrame::incognito-inactive-frame-color = mix (0.5, @bg_color, "#cbd2d9")
 
