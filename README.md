@@ -42,7 +42,7 @@ Screenshots "Goldy-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 29.06.2024.
+Changelog: 06.07.2024.
 ----------------------
 
 Aurorae Themes
@@ -53,7 +53,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: apps.rc
 
 Icons
 -----
@@ -63,12 +63,9 @@ Added new icons: apps 48
 Plasma Theme
 -------------
 
-Update widget: bar_meter_horizontal.svg
+Update widget: bar_meter_vertical.svg
 
-SDDM Theme "Goldy-SDDM"
--------------------------
 
-Update: metadata.desktop
 
 
 
