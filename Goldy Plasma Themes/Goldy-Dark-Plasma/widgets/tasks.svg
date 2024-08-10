@@ -26,20 +26,20 @@
 </style>
   <sodipodi:namedview
      id="base"
-     pagecolor="#404040"
+     pagecolor="#333333"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71070086"
      inkscape:cx="464.33038"
-     inkscape:cy="429.85736"
+     inkscape:cy="429.15384"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1870"
-     inkscape:window-height="994"
-     inkscape:window-x="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -49,7 +49,7 @@
      inkscape:lockguides="false"
      showguides="true"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#363636">
+     inkscape:deskcolor="#333333">
     <inkscape:grid
        type="xygrid"
        id="grid8537"
