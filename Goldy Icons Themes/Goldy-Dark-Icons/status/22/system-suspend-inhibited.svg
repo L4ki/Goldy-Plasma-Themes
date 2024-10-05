@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7"
+   version="1.1"
+   viewBox="0 0 24 24"
+   width="24"
+   height="24"
+   sodipodi:docname="system-suspend-inhibited.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.625"
+     inkscape:cx="11.98419"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g2">
+    <g
+       id="g1"
+       fill="currentColor">
+      <path
+         id="path7"
+         class="ColorScheme-NegativeText"
+         transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)"
+         d="m-0.50000006 4.7426407 1-1e-7v21.627417h-1z"
+         fill="currentColor" />
+      <path
+         id="path2"
+         class="ColorScheme-Text"
+         d="m11 5.6666667v0.8888888h2.038222l-1.777778 1.7777778-0.260444 0.2604445v0.6284443h3.555556v-0.8888888h-2.038223l1.777778-1.7777778 0.260445-0.2604444v-0.6284444h-0.628445zm4.444444-2.6666667v0.8888889h2.038223l-1.777778 1.7777778-0.260445 0.2604444v0.6284444h3.555556v-0.8888888h-2.038222l1.777778-1.7777778 0.260444-0.2604445v-0.6284444h-0.628444z"
+         stroke-width=".888889"
+         fill="currentColor" />
+    </g>
+    <path
+       id="path1"
+       class="ColorScheme-Text"
+       d="m5.9999063 11c-1.1079654 0-1.9999375 0.891722-1.9999375 2.000187v1.999438h-0.9999688v4.000375h5.9998126v-4.000375h-0.9999685v-1.999438c0-1.108465-0.8919727-2.000187-1.9999378-2.000187m0 0.500234c0.830974 0 1.4999531 0.779976 1.4999531 1.749696v1.749695h-2.9999062v-1.749695c0-0.96972 0.6689791-1.749696 1.4999531-1.749696"
+       fill="currentColor"
+       style="fill:#af905e;fill-opacity:1" />
+  </g>
+</svg>
