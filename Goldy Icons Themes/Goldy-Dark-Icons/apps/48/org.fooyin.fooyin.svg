@@ -5,7 +5,7 @@
    height="56"
    viewBox="0 0 56 56"
    id="svg2"
-   sodipodi:docname="org.fooyin.fooyin.desktop.svg"
+   sodipodi:docname="org.fooyin.fooyin.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -720,12 +720,12 @@
      style="fill:#0d6efd;fill-opacity:1" />
   <rect
      height="56"
-     ry="15.056351"
+     ry="15"
      width="56"
      x="0"
      y="0"
      id="rect4310-6-6"
-     style="fill:#e6e6e6;fill-opacity:0.199088;stroke-width:1.4"
+     style="fill:#e6e6e6;fill-opacity:0.2;stroke-width:1.4"
      rx="16" />
   <rect
      x="7"
@@ -752,11 +752,13 @@
        style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 31.74951,22.608576 4.351929,4.549056 -1.867612,1.727822 -2.638312,3.8535 -4.843049,-4.737227 z"
+       fill="url(#b)"
        opacity="0.08"
        id="path6-5"
        style="fill:url(#b-6)" />
     <path
        d="m 16.012936,25.992942 7.027721,6.995632 1.893314,-1.764953 -8.664315,-8.632224 z"
+       fill="url(#d)"
        opacity="0.08"
        id="path7"
        style="fill:url(#d)" />
@@ -767,8 +769,10 @@
        id="path8-3" />
     <path
        d="m 19.68386,36.522786 4.613404,4.613405 3.972654,-1.255871 1.460911,-0.845791 -1.717211,-3.588204 -3.485684,-2.511742 z"
+       fill="url(#e)"
        opacity="0.08"
-       id="path9" />
+       id="path9"
+       style="fill:url(#e)" />
     <path
        d="m 23.941561,34.717459 c 0.9501,8.05e-4 1.857956,1.466997 3.441621,1.917136 1.583665,0.450139 1.128943,-0.953634 0.137085,-1.592039 -0.991857,-0.638405 -2.176954,-2.223626 -3.578706,-2.208844 -0.392366,0.0041 -0.764957,0.122669 -1.120783,0.308952 -1.062363,0.556171 -1.975282,1.716268 -2.818864,2.23891 -1.126126,0.697694 -0.144597,1.753073 1.034488,1.297556 1.179085,-0.455519 1.870444,-1.96255 2.905159,-1.961671 z"
        stroke-width="6.285"
