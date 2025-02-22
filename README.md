@@ -42,7 +42,7 @@ Screenshots "Goldy-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 16.02.2025.
+Changelog: 23.02.2025.
 ----------------------
 
 Aurorae Themes
@@ -53,7 +53,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: styles
 
 Icons
 -----
