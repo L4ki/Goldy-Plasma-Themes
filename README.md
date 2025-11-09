@@ -42,18 +42,18 @@ Screenshots "Goldy-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 05.11.2025.
+Changelog: 012.11.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: hacks-dark.rc
 
 Icons
 -----
 
-Added new icons: apps 32, 48
+Added new icons: apps 48
 
 Plasma Theme
 -------------
