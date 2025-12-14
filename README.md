@@ -42,18 +42,18 @@ Screenshots "Goldy-Dark-Plasma":
 
 _______________________________________________________________________________________________________________________________
 
-Changelog: 07.12.2025.
+Changelog: 14.12.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Icons
 -----
 
-Update icons: status 22
+Added new icons: apps 48
 
 Plasma Theme
 -------------
